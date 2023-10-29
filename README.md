@@ -1,4 +1,4 @@
-## Illumination conditions:
+## Illumination condition :
 
 Well-Lit: https://youtu.be/7HorDEcLUHU
 
